@@ -1,0 +1,32 @@
+aid: open-skills
+name: Open Skills
+description: "Job titles, skills and related jobs data"
+url: https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Jobs"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Jobs
+  - Public APIs
+apis:
+  - name: Open Skills
+    description: "Job titles, skills and related jobs data"
+    humanURL: https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview
+    baseURL: https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview
+    tags:
+      - Jobs
+    properties:
+      - type: Documentation
+        url: https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview
+common:
+  - type: Website
+    url: https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
