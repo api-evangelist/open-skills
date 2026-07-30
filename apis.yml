@@ -1,4 +1,16 @@
 aid: open-skills
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/open-skills.png
 name: Open Skills
 description: "Job titles, skills and related jobs data"
 url: https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview
