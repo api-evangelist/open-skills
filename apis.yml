@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/open-skill
 name: Open Skills
 description: "Job titles, skills and related jobs data"
 url: https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
