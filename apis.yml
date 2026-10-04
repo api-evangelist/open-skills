@@ -35,14 +35,15 @@ x-tier-reason: bulk-registered-from-public-apis
 tags:
   - Job
   - Public APIs
+  - Labor Market
 tags_raw:
   - Jobs
   - Public APIs
+  - Labor Market
 apis:
   - name: Open Skills
     description: "Job titles, skills and related jobs data"
     humanURL: https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview
-    baseURL: https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview
     tags:
       - Job
     tags_raw:
